@@ -33,3 +33,8 @@ git clone https://github.com/NahueeLozano/-Gesti-n-Gym-.git
 ---
 
 📌 Este sistema está diseñado para facilitar la administración de gimnasios y mejorar la experiencia tanto de propietarios como de usuarios.
+
+---
+
+## 👤 Autor
+- Desarrollado por Nahuel Lozano
